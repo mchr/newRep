@@ -18,7 +18,7 @@ public class testT {
 
 	
 	public static void main(String args[]){
-		testT obj = new testT("Michail",    1);
+		testT obj = new testT("Michail",    320);
 		System.out.println(obj.getName() + " "        + obj.getAge());
 	}
 }
